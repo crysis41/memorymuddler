@@ -1387,10 +1387,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 901931075}
-  selectedCommands:
-  - {fileID: 901931079}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 901931097}
   - {fileID: 901931103}
@@ -1457,14 +1455,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 901931071}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Script: {fileID: 11500000, guid: 1902400ccc99b45d69ad01cb86b57d0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemId: 78
+  itemId: 79
   indentLevel: 0
-  soundClip: {fileID: 8300000, guid: 217b4cb3c90c99645834e88a0f4028f4, type: 3}
-  volume: 0.5
-  waitUntilFinished: 0
+  musicClip: {fileID: 8300000, guid: 711d2dd25ae876048886c7cffa75ca04, type: 3}
+  atTime: 0
+  loop: 1
+  fadeDuration: 1
 --- !u!114 &901931080
 MonoBehaviour:
   m_ObjectHideFlags: 2

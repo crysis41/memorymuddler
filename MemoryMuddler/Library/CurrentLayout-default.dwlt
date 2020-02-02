@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 677, y: 471}
   m_MaxSize: {x: 18002, y: 14021}
   vertical: 0
-  controlID: 131
+  controlID: 62
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 471}
   m_MaxSize: {x: 14002, y: 14021}
   vertical: 1
-  controlID: 132
+  controlID: 63
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 332, y: 250}
   m_MaxSize: {x: 14002, y: 10000}
   vertical: 0
-  controlID: 133
+  controlID: 134
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -442,23 +442,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 5cfbffff
-      m_LastClickedID: -1188
-      m_ExpandedIDs: 64fbffffde3e0000d03f0000
+      m_SelectedIDs: 1e430000
+      m_LastClickedID: 17182
+      m_ExpandedIDs: 34f3ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Mechanics Flowchart
-        m_OriginalName: Mechanics Flowchart
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 15176
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -558,7 +558,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10.980551
     speed: 2
-    m_Value: 11.497959
+    m_Value: 10.980551
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -648,20 +648,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/FungusExamples/Playground/Sprites
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/FungusExamples/Playground/Sprites
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: F:\Users\rgroth\Documents\GitHub\memorymuddler\MemoryMuddler
+  m_LastProjectPath: F:\Users\ejwinters62928\Documents\GitHub\memorymuddler\MemoryMuddler
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 71}
-    m_SelectedIDs: f2470000
-    m_LastClickedID: 18418
-    m_ExpandedIDs: 00000000b2460000b4460000b6460000b8460000ba460000bc460000be460000c0460000c6460000a6470000ee47000000ca9a3b
+    m_SelectedIDs: 983f0000
+    m_LastClickedID: 16280
+    m_ExpandedIDs: 00000000983f00009a3f0000a8510000aa510000ac510000ae510000b0510000b2510000b4510000b6510000b851000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -689,7 +689,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b2460000b4460000b6460000b8460000ba460000bc460000be460000c0460000
+    m_ExpandedIDs: 00000000983f00009a3f0000a8510000aa510000ac510000ae510000b0510000b2510000b4510000b6510000b8510000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -716,7 +716,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300005c4c0000d23b0000d43b000014530000000000007c460000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
